@@ -1,0 +1,8 @@
+mle_venv/
+tweetprocessor.egg-info/
+dist/
+build/
+__pycache__
+.pytest_cache
+tweets.csv
+MANIFEST.in
