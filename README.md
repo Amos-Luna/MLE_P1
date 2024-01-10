@@ -26,7 +26,9 @@ preprocessor = TextPreprocessor(
     convert_to_lowercase=True,
     remove_emojis=True,
     remove_numbers=True,
-    remove_stopwords_flag=True
+    remove_stopwords_flag=True,
+    process_stemming_flag=True,
+    process_lemmatization_flag=True
 )
 
 
